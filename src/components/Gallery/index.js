@@ -29,28 +29,28 @@ import img22 from '../../images/22.png'
 export default function Gallery(props) {
   return (
     <Grid>
-      <Art src={img1} />
-      <Art src={img2} />
-      <Art src={img3} />
-      <Art src={img4} />
-      <Art src={img5} />
-      <Art src={img6} />
-      <Art src={img7} />
-      <Art src={img8} />
-      <Art src={img9} />
-      <Art src={img10} />
-      <Art src={img11} />
-      <Art src={img12} />
-      <Art src={img13} />
-      <Art src={img14} />
-      <Art src={img15} />
-      <Art src={img16} />
-      <Art src={img17} />
-      <Art src={img18} />
-      <Art src={img19} />
-      <Art src={img20} />
-      <Art src={img21} />
       <Art src={img22} />
+      <Art src={img21} />
+      <Art src={img20} />
+      <Art src={img19} />
+      <Art src={img18} />
+      <Art src={img17} />
+      <Art src={img16} />
+      <Art src={img15} />
+      <Art src={img14} />
+      <Art src={img13} />
+      <Art src={img12} />
+      <Art src={img11} />
+      <Art src={img10} />
+      <Art src={img9} />
+      <Art src={img8} />
+      <Art src={img7} />
+      <Art src={img6} />
+      <Art src={img5} />
+      <Art src={img4} />
+      <Art src={img3} />
+      <Art src={img2} />
+      <Art src={img1} />
     </Grid>
   )
 }
