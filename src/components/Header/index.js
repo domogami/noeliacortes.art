@@ -1,5 +1,5 @@
 import React from 'react'
-import LogoSrc from '../../images/logo.png'
+import LogoSrc from '../../images/logo2.png'
 import { HeaderContainer, Text, Logo, SectionLink } from './style'
 
 export default function Header(props) {

@@ -11,6 +11,7 @@ export const BackgroundImage = styled.img`
   object-fit: cover;
   grid-column: 1;
   grid-row: 1;
+  object-position: 0 auto auto auto;
   object-fit: cover;
   grid-column: 1;
   grid-row: 1;
